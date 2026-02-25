@@ -22,12 +22,11 @@ Focus:      Offensive Security | VAPT | Red Teaming | AI + Cybersecurity
 ```
 
 - 🔴 **Red Teamer & Penetration Tester** — experienced in web app security, VAPT, and offensive security operations
-- 🏆 **Global Rank #16** at Black Hat USA CTF 2025 (Bugcrowd) | **Rank #33 Nationwide** in Pentathon 2025 (NCIIPC)
+- 🚩 Actively participate in Capture The Flag events | 🏆**Rank #33 Nationwide** in Pentathon 2025 (NCIIPC)
 - 🛡️ **CNSP Certified** (Certified Network Security Practitioner) — The SecOps Group
 - ☁️ Built a **cloud honeypot on Azure** to capture & analyze real-world attacker behavior
 - 🤖 Building projects at the intersection of **AI + Cybersecurity**
-- 📄 **Research Paper** presented: *"Beyond the Wires: Exploring the Rise and Future of Satellite Broadband"* (MULTICON-W 2024)
-
+- 📄 **TryHackMe** and **HackTheBox** learner.
 ---
 
 ### 🏅 Certifications
