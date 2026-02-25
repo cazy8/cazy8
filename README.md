@@ -16,7 +16,7 @@
 ```yaml
 Name:       Harsh Gupta
 Location:   Mumbai, India
-Education:  B.E. CSE (Cybersecurity) @ Thakur College of Engineering & Technology  | **2023-2027**
+Education:  B.E. CSE (Cybersecurity) @ Thakur College of Engineering & Technology  | 2023-2027
 CGPA:       8.7 / 10 after sem 5
 Focus:      Offensive Security | VAPT | Red Teaming | AI + Cybersecurity
 ```
