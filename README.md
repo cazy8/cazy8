@@ -7,9 +7,8 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF4B4B&center=true&vCenter=true&random=false&width=620&lines=CSE+Student+%F0%9F%94%90;Ethical+Hacker+%7C+Pentester+%7C+Red+TeamerCNSP+Certified;CTFer+%7C+Cybersecurity+Enthusiast;Building+AI-Powered+Security+Tools+%F0%9F%9B%A1%EF%B8%8F" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF4B4B&center=true&vCenter=true&random=false&width=620&lines=CSE+Student+%F0%9F%8E%93;Cybersecurity+Enthusiast+%F0%9F%94%90;CTFer+%F0%9F%9A%A9;Red+Teamer+%F0%9F%94%B4;Ethical+Hacker+%F0%9F%92%80;Pentester+%F0%9F%9B%A1%EF%B8%8F" />
 </p>
-
 ---
 
 ### 🧑‍💻 About Me
