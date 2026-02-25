@@ -18,7 +18,7 @@
 Name:       Harsh Gupta
 Location:   Mumbai, India
 Education:  B.E. CSE (Cybersecurity) @ Thakur College of Engineering & Technology
-CGPA:       9.64 / 10
+CGPA:       8.7 / 10 after sem 5
 Focus:      Offensive Security | VAPT | Red Teaming | AI + Cybersecurity
 ```
 
