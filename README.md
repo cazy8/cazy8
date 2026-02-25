@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF4B4B&center=true&vCenter=true&random=false&width=620&lines=Cybersecurity+Student+%F0%9F%94%90;Ethical+Hacker+%7C+Pentester+%7C+Red+Teamer;Global+Rank+%2316+%E2%80%93+Black+Hat+USA+CTF+2025;CNSP+Certified+%7C+VAPT+Specialist;Building+AI-Powered+Security+Tools+%F0%9F%9B%A1%EF%B8%8F" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF4B4B&center=true&vCenter=true&random=false&width=620&lines=CSE+Student+%F0%9F%94%90;Ethical+Hacker+%7C+Pentester+%7C+Red+Teamer;CTFer%7C;CNSP+Certified+%7C+Cybersecurity+Enthusiast;Building+AI-Powered+Security+Tools+%F0%9F%9B%A1%EF%B8%8F" />
 </p>
 
 ---
