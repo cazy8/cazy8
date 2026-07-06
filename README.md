@@ -1,5 +1,310 @@
 <div align="center">
 
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Harsh%20Gupta&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Application%20Security%20%7C%20Bug%20Bounty%20%7C%20VAPT%20Specialist&descAlignY=58&descSize=18)](#)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Application+Security+%7C+Penetration+Testing;OWASP+Top+10+%2C+OAuth+%2F+SAML+%2F+OIDC+Auditing;Red+Team+Operations+%40+MITRE+ATT%26CK;Bug+Bounty+Hunter+%7C+CTF+Player;Building+Secure+Systems%2C+One+Exploit+at+a+Time)](#)
+
+[![TCET Mumbai](https://img.shields.io/badge/Institution-TCET%20Mumbai-6D28D9?style=flat-square&logo=googlescholar&logoColor=white)](https://tcetmumbai.in)
+[![Location](https://img.shields.io/badge/Based%20in-Mumbai%2C%20India-4C1D95?style=flat-square&logo=googlemaps&logoColor=white)](#)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/h4rshg/)
+[![Email](https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshgupta8125@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-5B21B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cazy8)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=cazy8&color=8b5cf6&style=flat-square&label=Profile+Views)](#)
+[![Followers](https://img.shields.io/github/followers/cazy8?style=flat-square&color=7c3aed&label=Followers)](#)
+[![Stars](https://img.shields.io/github/stars/cazy8?style=flat-square&color=6d28d9&label=Stars)](#)
+
+</div>
+
+---
+
+## 🔐 About Me
+
+```
+Name:       Harsh Gupta
+Location:   Mumbai, India
+Education:  B.E. Computer Science & Engineering (Cybersecurity), TCET — CGPA 8.7/10
+Focus:      Application Security | VAPT | Red Teaming | Bug Bounty
+Mindset:    Break it, understand it, report it, fix it.
+```
+
+I'm an **application security engineer in the making** — a cybersecurity undergraduate who spends more time inside Burp Suite than outside it. My work sits at the intersection of **offensive security** and **secure engineering**: finding the flaw is only half the job, explaining its real-world impact and helping teams fix it is the other half.
+
+I've run **web, API, and network penetration tests** end-to-end — recon, exploitation, post-exploitation, CVSS-based triage — across live consultancy engagements, and I map every red-team exercise back to **MITRE ATT&CK** so findings translate into actionable defense. I care about the boring-but-critical parts of security too: **OAuth 2.0 / SAML / OIDC** token-handling weaknesses, container and cloud misconfigurations, and privacy/GDPR compliance gaps that most scanners miss.
+
+Outside of client work, I build my own tooling — from a **Docker/Linux misconfiguration scanner** modeled on CIS Benchmarks, to an **ML-based Network Intrusion Detection System** — and I compete in CTFs to keep my offense sharp.
+
+```
+Open To:
+  - Application Security / VAPT internships & full-time roles
+  - Bug bounty collaboration & mentorship exchanges
+  - Red team / offensive security research
+  - Open source AppSec tooling contributions
+```
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+[![Python](https://img.shields.io/badge/Python-14151a?style=flat-square&logo=python&logoColor=A78BFA)](#)
+[![Bash](https://img.shields.io/badge/Bash-14151a?style=flat-square&logo=gnubash&logoColor=A78BFA)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-14151a?style=flat-square&logo=javascript&logoColor=A78BFA)](#)
+[![SQL](https://img.shields.io/badge/SQL-14151a?style=flat-square&logo=postgresql&logoColor=A78BFA)](#)
+
+**Offensive Security & Auth**
+[![OWASP](https://img.shields.io/badge/OWASP%20Top%2010-14151a?style=flat-square&logo=owasp&logoColor=A78BFA)](#)
+[![OAuth2](https://img.shields.io/badge/OAuth%202.0-14151a?style=flat-square&logo=auth0&logoColor=A78BFA)](#)
+[![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-14151a?style=flat-square&logo=mitre&logoColor=A78BFA)](#)
+
+**Cloud & Containers**
+[![AWS](https://img.shields.io/badge/AWS-14151a?style=flat-square&logo=amazonaws&logoColor=A78BFA)](#)
+[![Docker](https://img.shields.io/badge/Docker-14151a?style=flat-square&logo=docker&logoColor=A78BFA)](#)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-14151a?style=flat-square&logo=kubernetes&logoColor=A78BFA)](#)
+[![Linux](https://img.shields.io/badge/Linux-14151a?style=flat-square&logo=linux&logoColor=A78BFA)](#)
+
+**Security Tools**
+[![Burp Suite](https://img.shields.io/badge/Burp%20Suite-14151a?style=flat-square&logo=burpsuite&logoColor=A78BFA)](#)
+[![Nmap](https://img.shields.io/badge/Nmap-14151a?style=flat-square&logo=nmap&logoColor=A78BFA)](#)
+[![Metasploit](https://img.shields.io/badge/Metasploit-14151a?style=flat-square&logo=metasploit&logoColor=A78BFA)](#)
+[![Wireshark](https://img.shields.io/badge/Wireshark-14151a?style=flat-square&logo=wireshark&logoColor=A78BFA)](#)
+
+[![Skill Icons](https://skillicons.dev/icons?i=python,bash,js,docker,kubernetes,aws,linux,git&theme=dark)](#)
+
+---
+
+## 🧠 AppSec / Offensive Security Expertise
+
+| Domain                              | Proficiency  | Details                                                                 |
+| ------------------------------------ | ------------ | ------------------------------------------------------------------------ |
+| Web & API Penetration Testing        | Advanced     | Injection, broken auth, IDOR, business-logic flaws — OWASP Top 10 mapped |
+| Vulnerability Scoring & Triage       | Advanced     | CVSS-based severity scoring to prioritize remediation                   |
+| Auth Protocol Security               | Advanced     | OAuth 2.0 / SAML / OIDC — token hijacking, open redirect, SSRF patterns  |
+| Red Teaming & MITRE ATT&CK           | Intermediate | Recon → exploitation → post-exploitation mapped to attacker TTPs        |
+| Cloud & Container Security           | Intermediate | AWS IAM/S3 misconfig, Docker/Kubernetes hardening, CIS Benchmark checks  |
+| Network Security & Traffic Analysis  | Intermediate | TCP/IP, packet analysis, anomaly & intrusion detection                  |
+| Security Automation                  | Intermediate | Bash/Python tooling for scanning, CI/CD-integrated security checks      |
+| AI/ML for Security Detection         | Developing   | ML-based traffic classification, adversarial robustness exploration     |
+
+---
+
+## 🚀 Featured Projects
+
+<details>
+<summary><b>🐳 Docker Security Scanner</b></summary>
+<br>
+
+Automated Bash-based security scanner that audits Docker containers and Linux hosts for misconfigurations, privilege escalation paths, and exposed secrets — built to catch insecure defaults before they reach production in microservices environments.
+
+| Category        | Detail                                                                 |
+| --------------- | ------------------------------------------------------------------------ |
+| **Stack**       | Bash, Linux, Docker, Security Automation                                 |
+| **Scale**       | Single-host & multi-container scan sessions                              |
+| **Performance** | Lightweight shell-based checks, minimal runtime overhead                 |
+| **Security**    | Checks modeled on CIS Docker Benchmark controls                          |
+| **Impact**      | Surfaces insecure defaults pre-deployment, reducing container attack surface |
+| **Repository**  | [GitHub →](https://github.com/cazy8)                                     |
+
+</details>
+
+<details>
+<summary><b>🛡️ AI-Based Network Intrusion Detection System</b></summary>
+<br>
+
+Python-based IDS that parses and classifies network traffic using ML models to flag anomalous behavior indicative of intrusions or lateral movement, with exploration into adversarial robustness for AI/ML-driven security detection.
+
+| Category        | Detail                                                                     |
+| --------------- | ----------------------------------------------------------------------------- |
+| **Stack**       | Python, Random Forest, XGBoost, Decision Tree, Streamlit                       |
+| **Scale**       | Multi-class traffic classification (DDoS, Port Scan, Bot, Brute Force)         |
+| **Performance** | Evaluated across multiple ML models for detection accuracy                    |
+| **Security**    | Explores adversarial input handling and model robustness                      |
+| **Impact**      | Detects lateral movement & intrusion patterns from raw traffic                |
+| **Repository**  | [GitHub →](https://github.com/cazy8/AI-Based-Network-Intrusion-Detection-System) |
+
+</details>
+
+<details>
+<summary><b>🕸️ Live SSH/Telnet Honeypot — Azure Threat Intelligence</b></summary>
+<br>
+
+Deployed a live SSH/Telnet honeypot on Microsoft Azure using Cowrie and Fail2ban to capture real-world attacker behavior — credentials, commands, and geolocation data — for threat intelligence analysis.
+
+| Category        | Detail                                                            |
+| --------------- | -------------------------------------------------------------------- |
+| **Stack**       | Cowrie, Fail2ban, Microsoft Azure, Linux                              |
+| **Scale**       | Internet-facing honeypot, continuous live capture                    |
+| **Performance** | Fail2ban IPS layered for automated blocking of repeat attackers      |
+| **Security**    | Isolated honeypot environment to safely observe attacker TTPs        |
+| **Impact**      | Real-world attack pattern & credential dataset for threat intel      |
+| **Repository**  | [GitHub →](https://github.com/cazy8/honey-pot-server)                |
+
+</details>
+
+---
+
+## 💼 Experience
+
+**VAPT Intern**
+**CyberSRC Consultancy** · *Aug 2025 – Oct 2025*
+
+- Performed web, API, and network penetration testing using Burp Suite, OWASP ZAP, and Nmap
+- Identified OWASP Top 10 issues (injection, broken auth, IDOR) and scored findings via CVSS to prioritize remediation
+- Assessed OAuth 2.0 / token-handling weaknesses; collaborated with engineering teams to validate fixes
+- Used SQLmap, Hydra, and Metasploit across exploitation scenarios
+
+`Burp Suite` `OWASP ZAP` `Nmap` `SQLmap` `Metasploit` `CVSS` `OAuth 2.0`
+
+**Ethical Hacking & Cybersecurity Intern**
+**Netrinix Academy** · *Oct 2025 – Nov 2025*
+
+- Executed red-team engagements (recon, exploitation, post-exploitation) mapped to MITRE ATT&CK
+- Audited network infrastructure and containerized environments for misconfigurations
+- Findings used to inform incident response improvements
+
+`Red Teaming` `MITRE ATT&CK` `Network Security` `Container Security`
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+| Recognition                                                                 | Details                                    |
+| ---------------------------------------------------------------------------- | --------------------------------------------- |
+| 🥇 Global Rank #16 — Black Hat USA CTF 2025 (Bugcrowd)                        | International CTF competition                 |
+| 🥈 Global Rank #5 — REDFOX CTF 2026                                          | International CTF competition                 |
+| 🎖️ Rank #33 Nationwide — Pentathon 2025 CTF                                  | Hosted by NCIIPC (Govt. of India)             |
+| 🏅 1st Runner-Up — OWASP CTF 2025                                            | Thakur College of Engineering                 |
+| 🏅 Rank #5 — CyberTEA-3.0 CTF                                                | Hosted by IIIT Sri City                       |
+| 🏅 Rank #6 — LNMHacks 8.0 CTF                                                | National-level CTF                            |
+| 💰 Bug Bounty — GDPR/Privacy Finding (Rewarded)                              | Pre-consent tracking cookie vuln, $20 bounty  |
+
+</div>
+
+---
+
+## 📜 Certifications
+
+**Offensive Security**
+[![CNSP](https://img.shields.io/badge/CNSP-Certified%20Network%20Security%20Practitioner-6D28D9?style=for-the-badge&logo=security&logoColor=white)](#)
+[![Redfox](https://img.shields.io/badge/Android%20Pentester-Redfox%20Security%20(Pursuing)-4C1D95?style=for-the-badge&logo=android&logoColor=white)](#)
+
+**TryHackMe**
+[![Jr Pentester](https://img.shields.io/badge/Jr.%20Penetration%20Tester-Learning%20Path-7C3AED?style=for-the-badge&logo=tryhackme&logoColor=white)](#)
+[![SEC1](https://img.shields.io/badge/SEC1%20Certified-TryHackMe-7C3AED?style=for-the-badge&logo=tryhackme&logoColor=white)](#)
+
+**Cloud & Networking**
+[![Aviatrix](https://img.shields.io/badge/Aviatrix%20ACE-Multicloud%20Network%20Associate-5B21B6?style=for-the-badge&logo=cloudflare&logoColor=white)](#)
+
+---
+
+## 💻 Coding Profiles
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=A78BFA)](#)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-000000?style=for-the-badge&logo=geeksforgeeks&logoColor=A78BFA)](#)
+[![HackerRank](https://img.shields.io/badge/HackerRank-000000?style=for-the-badge&logo=hackerrank&logoColor=A78BFA)](#)
+[![CodeChef](https://img.shields.io/badge/CodeChef-000000?style=for-the-badge&logo=codechef&logoColor=A78BFA)](#)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=A78BFA)](#)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+[![](https://github-readme-stats.vercel.app/api?username=cazy8&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9)](#)
+[![](https://streak-stats.demolab.com?user=cazy8&theme=dark&hide_border=true&background=0d1117&stroke=8B5CF6&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA)](#)
+
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=cazy8&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9)](#)
+
+</div>
+
+---
+
+## 🏅 GitHub Trophies
+
+<div align="center">
+
+[![](https://github-profile-trophy.vercel.app/?username=cazy8&theme=discord&no-frame=true&column=7&margin-w=8&margin-h=8)](#)
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+[![](https://github-readme-activity-graph.vercel.app/graph?username=cazy8&theme=react-dark&hide_border=true&bg_color=0d1117&color=A78BFA&line=8B5CF6&point=c9d1d9)](#)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+[![](https://raw.githubusercontent.com/cazy8/cazy8/output/github-contribution-grid-snake-dark.svg)](#)
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```yaml
+Learning:
+  - Advanced exploitation techniques for auth flows (OAuth/SAML/OIDC)
+  - Cloud security posture management (AWS/Azure)
+  - Deeper red-team tradecraft aligned to MITRE ATT&CK
+
+Building:
+  - CIS-benchmark-driven container security scanner (Bash)
+  - ML-based network intrusion detection pipelines
+
+Exploring:
+  - Bug bounty programs on HackerOne / Bugcrowd
+  - Mobile application penetration testing (Android)
+
+Open To:
+  - AppSec / VAPT internships & placement opportunities
+  - Red team and offensive security collaborations
+  - CTF teams and security research exchanges
+```
+
+---
+
+## 📫 Connect
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshgupta8125@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/h4rshg/)
+[![GitHub](https://img.shields.io/badge/GitHub-5B21B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cazy8)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](#)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Every endpoint has a story — my job is to find it before someone with worse intentions does."*
+
+[![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer)](#)
+
+</div>
+
+<!-- <div align="center">
+
 ![Header](https://capsule-render.com/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Harsh%20Gupta%20(Cazy)&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Security%20Researcher%20%7C%20Bug%20Bounty%20Hunter%20%7C%20Web%20App%20Vulnerability%20Specialist&descAlignY=58&descSize=18)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Cybersecurity+Student+%40+TCET+Mumbai+%F0%9F%8E%93;Always+Learning%2C+Always+Breaking+Things+%F0%9F%94%93;Django+%2F+nginx+Vulnerability+Research;GDPR+%26+Privacy+Compliance+Auditor;HackerOne+%7C+Bugcrowd+Active+Researcher;Building+CAZY+VULN+-+CLI+Vuln+Scanner" alt="Typing SVG" />
@@ -783,4 +1088,4 @@ Focus:      Offensive Security | VAPT | Red Teaming | AI + Cybersecurity
 <p align="center">
   <b>🔴 Open to cybersecurity collaborations, CTF teaming, and red team projects</b><br>
   <a href="https://www.linkedin.com/in/h4rshg/">Connect on LinkedIn →</a> · <a href="mailto:harshgupta8125@gmail.com">Email Me →</a>
-</p> --> -->
+</p> --> --> -->
