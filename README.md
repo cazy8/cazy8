@@ -2,6 +2,316 @@
 
 ![Header](https://capsule-render.com/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Harsh%20Gupta%20(Cazy)&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Security%20Researcher%20%7C%20Bug%20Bounty%20Hunter%20%7C%20Web%20App%20Vulnerability%20Specialist&descAlignY=58&descSize=18)
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Cybersecurity+Student+%40+TCET+Mumbai+%F0%9F%8E%93;Always+Learning%2C+Always+Breaking+Things+%F0%9F%94%93;Django+%2F+nginx+Vulnerability+Research;GDPR+%26+Privacy+Compliance+Auditor;HackerOne+%7C+Bugcrowd+Active+Researcher;Building+CAZY+VULN+-+CLI+Vuln+Scanner" alt="Typing SVG" />
+
+[![TCET Mumbai](https://img.shields.io/badge/Institution-TCET%20Mumbai-6D28D9?style=flat-square&logo=googlescholar&logoColor=white)](https://tcetmumbai.in)
+[![Location](https://img.shields.io/badge/Based%20in-Mumbai%2C%20India-4C1D95?style=flat-square&logo=googlemaps&logoColor=white)](#)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/h4rshg/)
+[![Email](https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshgupta8125@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-5B21B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cazy8)
+
+![Profile Views](https://komarev.com/ghpvc/?username=cazy8&color=8b5cf6&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/cazy8?style=flat-square&color=7c3aed&label=Followers)
+![Stars](https://img.shields.io/github/stars/cazy8?style=flat-square&color=6d28d9&label=Stars)
+
+</div>
+
+---
+
+## 🔐 About Me
+
+```yaml
+Name:       Harsh Gupta
+Location:   Mumbai, India
+Focus:      Offensive Security | Bug Bounty | Web App VAPT | Privacy Compliance
+Mindset:    Perpetual student of cybersecurity
+```
+
+I'm a **cybersecurity student and bug bounty hunter** who learns by doing — hunting on **HackerOne** and **Bugcrowd**, specializing in **Django/nginx stacks** and **GDPR/privacy compliance** issues. Every engagement is a chance to learn something new about how real systems break.
+
+My approach is built on a strict personal discipline: **never submit without live demonstrated impact**, avoid padding reports with working-as-designed identifiers, and stay transparent about what is and isn't exploitable. I pair AI-assisted reconnaissance workflows with manual validation to keep my learning grounded in real, verifiable results.
+
+I'm currently building **CAZY VULN**, a CLI-based vulnerability scanner engineered around a five-phase triage methodology — `RECON → MAP → FUZZ → VALIDATE → REPORT` — both a tool and a way of formalizing everything I've learned so far.
+
+```yaml
+Open To:
+  - Security research collaborations
+  - Bug bounty triage & mentorship exchanges
+  - Learning from CTFs, writeups, and other researchers
+  - Open source contributions in AppSec tooling
+```
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+![Python](https://img.shields.io/badge/Python-14151a?style=flat-square&logo=python&logoColor=A78BFA)
+![JavaScript](https://img.shields.io/badge/JavaScript-14151a?style=flat-square&logo=javascript&logoColor=A78BFA)
+![Bash](https://img.shields.io/badge/Bash-14151a?style=flat-square&logo=gnubash&logoColor=A78BFA)
+![SQL](https://img.shields.io/badge/SQL-14151a?style=flat-square&logo=postgresql&logoColor=A78BFA)
+
+**Frontend**
+![HTML5](https://img.shields.io/badge/HTML5-14151a?style=flat-square&logo=html5&logoColor=A78BFA)
+![CSS3](https://img.shields.io/badge/CSS3-14151a?style=flat-square&logo=css3&logoColor=A78BFA)
+![HTMX](https://img.shields.io/badge/HTMX-14151a?style=flat-square&logo=htmx&logoColor=A78BFA)
+
+**Backend & Databases**
+![Django](https://img.shields.io/badge/Django-14151a?style=flat-square&logo=django&logoColor=A78BFA)
+![DRF](https://img.shields.io/badge/Django%20REST%20Framework-14151a?style=flat-square&logo=django&logoColor=A78BFA)
+![SQLite](https://img.shields.io/badge/SQLite-14151a?style=flat-square&logo=sqlite&logoColor=A78BFA)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14151a?style=flat-square&logo=postgresql&logoColor=A78BFA)
+
+**Security, Cloud & Tooling**
+![nginx](https://img.shields.io/badge/nginx-14151a?style=flat-square&logo=nginx&logoColor=A78BFA)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-14151a?style=flat-square&logo=burpsuite&logoColor=A78BFA)
+![Nmap](https://img.shields.io/badge/Nmap-14151a?style=flat-square&logo=nmap&logoColor=A78BFA)
+![Docker](https://img.shields.io/badge/Docker-14151a?style=flat-square&logo=docker&logoColor=A78BFA)
+![Git](https://img.shields.io/badge/Git-14151a?style=flat-square&logo=git&logoColor=A78BFA)
+![Postman](https://img.shields.io/badge/Postman-14151a?style=flat-square&logo=postman&logoColor=A78BFA)
+
+<div align="center">
+
+![Skill Icons](https://skillicons.dev/icons?i=python,django,nginx,postgresql,sqlite,docker,git,bash,html,css,js&theme=dark)
+
+</div>
+
+---
+
+## 🧠 Security Research Expertise
+
+| Domain | Proficiency | Details |
+|---|:---:|---|
+| Web App Vulnerability Research | Advanced | IDOR chains, CSRF validation bypass, auth flow logic flaws |
+| Django / DRF Enumeration | Advanced | Endpoint discovery, permission misconfig, serializer leaks |
+| GDPR / Privacy Compliance | Advanced | Pre-consent tracking detection, cookie consent logic flaws |
+| nginx Analysis | Intermediate | Version disclosure triage, CVE mapping, config hardening review |
+| HTMX Auth Flow Testing | Intermediate | Partial-response auth bypass, fragment-based session leaks |
+| Payment Flow Security | Intermediate | Stripe checkout/webhook validation, replay & tampering checks |
+| Cookie & Session Security | Intermediate | SameSite flag analysis, session fixation, token scoping |
+| AI-Assisted Recon Workflows | Developing | Agent-driven recon paired with manual exploit validation |
+
+---
+
+## 🚀 Featured Projects
+
+<details>
+<summary><b>CAZY VULN — CLI Vulnerability Scanner & Triage Engine</b></summary>
+<br>
+
+A personal, opinionated CLI vulnerability scanner built to formalize a repeatable bug bounty triage methodology, from recon to submission-ready report generation.
+
+| Category | Detail |
+|---|---|
+| **Stack** | Python 3.11+, httpx, BeautifulSoup4, SQLite, Pydantic v2, Jinja2, nmap |
+| **Scale** | Single-operator tool, multi-target scan sessions |
+| **Performance** | Async HTTP recon via httpx for concurrent endpoint probing |
+| **Security** | Built-in noise filtering to avoid false-positive/working-as-designed findings |
+| **Impact** | Streamlines RECON → MAP → FUZZ → VALIDATE → REPORT into one pipeline |
+| **Repository** | *In active development* |
+
+Architected around a five-phase methodology: **RECON** (surface mapping), **MAP** (endpoint/parameter graphing), **FUZZ** (targeted payload testing), **VALIDATE** (manual/automated impact confirmation), and **REPORT** (CVSS 3.1-scored, HackerOne/Bugcrowd-ready output with PoC generation). Designed with the same discipline applied to manual hunting: no submission without demonstrated impact.
+
+</details>
+
+<details>
+<summary><b>GDPR / Cookie Consent Vulnerability Research — Outfox Stories</b></summary>
+<br>
+
+Identified a fingerprinting cookie being set before user consent due to rejection-based (rather than consent-based) logic — a direct GDPR pre-consent tracking violation.
+
+| Category | Detail |
+|---|---|
+| **Stack** | Manual browser instrumentation, cookie/request inspection |
+| **Scale** | Single production web application |
+| **Performance** | N/A — logic/compliance flaw, not a performance issue |
+| **Security** | Confirmed live, unauthenticated exposure of tracking data pre-consent |
+| **Impact** | First confirmed bounty payout; validated GDPR compliance gap |
+| **Repository** | Private disclosure — not publicly shared |
+
+Root cause traced to consent-handling logic evaluating rejection rather than requiring explicit opt-in, allowing a fingerprinting cookie to be set on page load regardless of user choice.
+
+</details>
+
+<details>
+<summary><b>Multi-Target Web App Assessments — HackerOne / Bugcrowd Programs</b></summary>
+<br>
+
+Ongoing vulnerability research across scoped HackerOne and Bugcrowd programs, focused on Django/nginx-backed applications and privacy-compliance edge cases.
+
+| Category | Detail |
+|---|---|
+| **Stack** | Burp Suite, custom recon tooling, manual exploitation |
+| **Scale** | Multiple scoped programs, varying attack surface sizes |
+| **Performance** | N/A |
+| **Security** | Findings triaged for CVSS severity and real-world exploitability |
+| **Impact** | Verified reports on unauthenticated endpoint exposure and disclosure issues |
+| **Repository** | Private program disclosures — not publicly shared |
+
+Every engagement follows the same standard: live-demonstrated impact only, transparent severity self-triage, and no padding with non-issues like working-as-designed API keys or standard OAuth client IDs.
+
+</details>
+
+---
+
+## 💼 Experience
+
+**Independent Security Researcher**
+**Bug Bounty Programs — HackerOne / Bugcrowd**
+*Ongoing*
+
+Conducting independent web application security research across scoped bug bounty programs, specializing in Django/nginx-backed platforms and privacy compliance auditing.
+
+- Performed endpoint enumeration and business-logic testing across production web applications
+- Identified and reported unauthenticated access and disclosure vulnerabilities
+- Self-triaged findings using CVSS 3.1 methodology before submission
+- Practiced strict responsible disclosure and non-disruptive testing standards
+
+`Web App Pentesting` `Django/DRF` `GDPR Compliance` `Bug Bounty` `Responsible Disclosure`
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|---|---|
+| First Confirmed Bounty Payout | GDPR / cookie-consent vulnerability — Outfox Stories |
+| Active Multi-Program Researcher | Ongoing engagements across HackerOne & Bugcrowd scopes |
+| Self-Triage Discipline | Correctly downgraded own findings (e.g. CORS misconfig) after deeper analysis |
+
+</div>
+
+---
+
+## 📜 Certifications
+
+*Add provider badges here as certifications are completed.*
+
+**AWS**
+&nbsp;&nbsp;*— placeholder —*
+
+**Oracle**
+&nbsp;&nbsp;*— placeholder —*
+
+**NPTEL**
+&nbsp;&nbsp;*— placeholder —*
+
+**Cisco**
+&nbsp;&nbsp;*— placeholder —*
+
+---
+
+## 💻 Coding & Learning Platforms
+
+<div align="center">
+
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=A78BFA)](#)
+[![HackTheBox](https://img.shields.io/badge/Hack%20The%20Box-000000?style=for-the-badge&logo=hackthebox&logoColor=A78BFA)](#)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=A78BFA)](#)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-000000?style=for-the-badge&logo=geeksforgeeks&logoColor=A78BFA)](#)
+[![HackerRank](https://img.shields.io/badge/HackerRank-000000?style=for-the-badge&logo=hackerrank&logoColor=A78BFA)](#)
+[![CodeChef](https://img.shields.io/badge/CodeChef-000000?style=for-the-badge&logo=codechef&logoColor=A78BFA)](#)
+
+</div>
+
+<p align="center"><i>Learning-first — currently sharpening fundamentals on TryHackMe & HackTheBox alongside live bug bounty work.</i></p>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=cazy8&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9" width="48%" />
+<img src="https://streak-stats.demolab.com?user=cazy8&theme=dark&hide_border=true&background=0d1117&stroke=8B5CF6&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cazy8&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" width="48%" />
+
+</div>
+
+---
+
+## 🏅 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=cazy8&theme=discord&no-frame=true&column=7&margin-w=8&margin-h=8" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cazy8&theme=react-dark&hide_border=true&bg_color=0d1117&color=A78BFA&line=8B5CF6&point=c9d1d9" width="90%" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/cazy8/cazy8/output/github-contribution-grid-snake-dark.svg" width="90%" />
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```yaml
+Learning:
+  - Advanced CVSS 3.1 scoring nuances for business-logic vulnerabilities
+  - Automated recon-to-report pipelines
+  - Deeper red-team & network security fundamentals via TryHackMe / HackTheBox
+
+Building:
+  - CAZY VULN: CLI vulnerability scanner (RECON → MAP → FUZZ → VALIDATE → REPORT)
+
+Exploring:
+  - GDPR/privacy-by-design flaws in consent management platforms
+  - Django/DRF-specific attack surface patterns
+
+Open To:
+  - Security research collaborations
+  - Learning exchanges with other bug bounty hunters
+  - AppSec tooling contributions
+```
+
+---
+
+## 📫 Connect
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshgupta8125@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/h4rshg/)
+[![GitHub](https://img.shields.io/badge/GitHub-5B21B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cazy8)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](#)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Still a student of security — every endpoint is a lesson waiting to be learned."*
+
+![Footer](https://capsule-render.com/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer)
+
+</div>
+<!-- <div align="center">
+
+![Header](https://capsule-render.com/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Harsh%20Gupta%20(Cazy)&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Security%20Researcher%20%7C%20Bug%20Bounty%20Hunter%20%7C%20Web%20App%20Vulnerability%20Specialist&descAlignY=58&descSize=18)
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Breaking+Web+Apps+for+a+Living+%F0%9F%94%93;Django+%2F+nginx+Vulnerability+Research;GDPR+%26+Privacy+Compliance+Auditor;HackerOne+%7C+Bugcrowd+Active+Researcher;Building+CAZY+VULN+-+CLI+Vuln+Scanner" alt="Typing SVG" />
 
 [![TCET Mumbai](https://img.shields.io/badge/Institution-TCET%20Mumbai-6D28D9?style=flat-square&logo=googlescholar&logoColor=white)](https://tcetmumbai.in)
@@ -473,4 +783,4 @@ Focus:      Offensive Security | VAPT | Red Teaming | AI + Cybersecurity
 <p align="center">
   <b>🔴 Open to cybersecurity collaborations, CTF teaming, and red team projects</b><br>
   <a href="https://www.linkedin.com/in/h4rshg/">Connect on LinkedIn →</a> · <a href="mailto:harshgupta8125@gmail.com">Email Me →</a>
-</p> -->
+</p> --> -->
