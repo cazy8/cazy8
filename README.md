@@ -7,7 +7,7 @@
 [![TCET Mumbai](https://img.shields.io/badge/Institution-TCET%20Mumbai-6D28D9?style=flat-square&logo=googlescholar&logoColor=white)](https://tcetmumbai.in)
 [![Location](https://img.shields.io/badge/Based%20in-Mumbai%2C%20India-4C1D95?style=flat-square&logo=googlemaps&logoColor=white)](#)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://cazydev.me/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/h4rshg/)
 [![Email](https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshgupta8125@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-5B21B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cazy8)
@@ -25,7 +25,7 @@
 ```
 Name:       Harsh Gupta
 Location:   Mumbai, India
-Education:  B.E. Computer Science & Engineering (Cybersecurity), TCET — CGPA 8.7/10
+Education:  B.E. Computer Science & Engineering (Cybersecurity), TCET — CGPA 8.8/10 after SEM-6
 Focus:      Application Security | VAPT | Red Teaming | Bug Bounty
 Mindset:    Break it, understand it, report it, fix it.
 ```
