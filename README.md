@@ -1,8 +1,8 @@
 <div align="center">
 
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Harsh%20Gupta&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Application%20Security%20%7C%20Bug%20Bounty%20%7C%20VAPT%20Specialist&descAlignY=58&descSize=18)](#)
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Harsh%20Gupta&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20Web%20Development%20%7C%20Cloud%20Enthusiast&descAlignY=58&descSize=18)](#)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Application+Security+%7C+Penetration+Testing;OWASP+Top+10+%2C+OAuth+%2F+SAML+%2F+OIDC+Auditing;Red+Team+Operations+%40+MITRE+ATT%26CK;Bug+Bounty+Hunter+%7C+CTF+Player;Building+Secure+Systems%2C+One+Exploit+at+a+Time)](#)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Application+Security+%7C+Penetration+Testing;Building+%26+Breaking+Web+Applications;Exploring+Cloud+Security+on+AWS+%2F+Azure;Red+Team+Operations+%40+MITRE+ATT%26CK;Tech+Enthusiast+%7C+CTF+Player+%7C+Builder)](#)
 
 [![TCET Mumbai](https://img.shields.io/badge/Institution-TCET%20Mumbai-6D28D9?style=flat-square&logo=googlescholar&logoColor=white)](https://tcetmumbai.in)
 [![Location](https://img.shields.io/badge/Based%20in-Mumbai%2C%20India-4C1D95?style=flat-square&logo=googlemaps&logoColor=white)](#)
@@ -30,18 +30,18 @@ Focus:      Application Security | VAPT | Red Teaming | Bug Bounty
 Mindset:    Break it, understand it, report it, fix it.
 ```
 
-I'm an **application security engineer in the making** — a cybersecurity undergraduate who spends more time inside Burp Suite than outside it. My work sits at the intersection of **offensive security** and **secure engineering**: finding the flaw is only half the job, explaining its real-world impact and helping teams fix it is the other half.
+I'm a **cybersecurity undergraduate and full-stack-curious tech enthusiast** who spends most days somewhere between Burp Suite and a code editor. My core lane is **application security** — but I like understanding the entire stack I'm attacking, which is why I also build web applications and tinker with cloud infrastructure on the side.
 
-I've run **web, API, and network penetration tests** end-to-end — recon, exploitation, post-exploitation, CVSS-based triage — across live consultancy engagements, and I map every red-team exercise back to **MITRE ATT&CK** so findings translate into actionable defense. I care about the boring-but-critical parts of security too: **OAuth 2.0 / SAML / OIDC** token-handling weaknesses, container and cloud misconfigurations, and privacy/GDPR compliance gaps that most scanners miss.
+On the offense side, I've run **web, API, and network penetration tests** end-to-end — recon, exploitation, post-exploitation, CVSS-based triage — across live consultancy engagements, mapping red-team exercises back to **MITRE ATT&CK**. I dig into **OAuth 2.0 / SAML / OIDC** token-handling weaknesses, container misconfigurations, and privacy/GDPR gaps that most scanners miss.
 
-Outside of client work, I build my own tooling — from a **Docker/Linux misconfiguration scanner** modeled on CIS Benchmarks, to an **ML-based Network Intrusion Detection System** — and I compete in CTFs to keep my offense sharp.
+On the build side, I write **web apps** to understand how the things I'm testing are actually put together, and I'm increasingly comfortable across **AWS and Azure** — provisioning environments, hardening configs, and finding the misconfigurations before an attacker does. I compete in CTFs to keep my offense sharp, and build my own tooling — from a **Docker/Linux misconfiguration scanner** to an **ML-based Network Intrusion Detection System** — whenever I want to go deeper than a write-up.
 
 ```
 Open To:
   - Application Security / VAPT internships & full-time roles
+  - Web development & cloud-adjacent security projects
   - Bug bounty collaboration & mentorship exchanges
-  - Red team / offensive security research
-  - Open source AppSec tooling contributions
+  - Open source contributions across security & dev tooling
 ```
 
 ---
@@ -50,20 +50,34 @@ Open To:
 
 **Languages**
 [![Python](https://img.shields.io/badge/Python-14151a?style=flat-square&logo=python&logoColor=A78BFA)](#)
-[![Bash](https://img.shields.io/badge/Bash-14151a?style=flat-square&logo=gnubash&logoColor=A78BFA)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-14151a?style=flat-square&logo=javascript&logoColor=A78BFA)](#)
+[![Bash](https://img.shields.io/badge/Bash-14151a?style=flat-square&logo=gnubash&logoColor=A78BFA)](#)
 [![SQL](https://img.shields.io/badge/SQL-14151a?style=flat-square&logo=postgresql&logoColor=A78BFA)](#)
+
+**Frontend**
+[![HTML5](https://img.shields.io/badge/HTML5-14151a?style=flat-square&logo=html5&logoColor=A78BFA)](#)
+[![CSS3](https://img.shields.io/badge/CSS3-14151a?style=flat-square&logo=css3&logoColor=A78BFA)](#)
+[![React](https://img.shields.io/badge/React-14151a?style=flat-square&logo=react&logoColor=A78BFA)](#)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-14151a?style=flat-square&logo=tailwindcss&logoColor=A78BFA)](#)
+
+**Backend & Databases**
+[![Node.js](https://img.shields.io/badge/Node.js-14151a?style=flat-square&logo=node.js&logoColor=A78BFA)](#)
+[![Flask](https://img.shields.io/badge/Flask-14151a?style=flat-square&logo=flask&logoColor=A78BFA)](#)
+[![MongoDB](https://img.shields.io/badge/MongoDB-14151a?style=flat-square&logo=mongodb&logoColor=A78BFA)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-14151a?style=flat-square&logo=mysql&logoColor=A78BFA)](#)
+
+**Cloud, DevOps & Containers**
+[![AWS](https://img.shields.io/badge/AWS-14151a?style=flat-square&logo=amazonaws&logoColor=A78BFA)](#)
+[![Azure](https://img.shields.io/badge/Azure-14151a?style=flat-square&logo=microsoftazure&logoColor=A78BFA)](#)
+[![Docker](https://img.shields.io/badge/Docker-14151a?style=flat-square&logo=docker&logoColor=A78BFA)](#)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-14151a?style=flat-square&logo=kubernetes&logoColor=A78BFA)](#)
+[![Linux](https://img.shields.io/badge/Linux-14151a?style=flat-square&logo=linux&logoColor=A78BFA)](#)
+[![Git](https://img.shields.io/badge/Git-14151a?style=flat-square&logo=git&logoColor=A78BFA)](#)
 
 **Offensive Security & Auth**
 [![OWASP](https://img.shields.io/badge/OWASP%20Top%2010-14151a?style=flat-square&logo=owasp&logoColor=A78BFA)](#)
 [![OAuth2](https://img.shields.io/badge/OAuth%202.0-14151a?style=flat-square&logo=auth0&logoColor=A78BFA)](#)
 [![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-14151a?style=flat-square&logo=mitre&logoColor=A78BFA)](#)
-
-**Cloud & Containers**
-[![AWS](https://img.shields.io/badge/AWS-14151a?style=flat-square&logo=amazonaws&logoColor=A78BFA)](#)
-[![Docker](https://img.shields.io/badge/Docker-14151a?style=flat-square&logo=docker&logoColor=A78BFA)](#)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-14151a?style=flat-square&logo=kubernetes&logoColor=A78BFA)](#)
-[![Linux](https://img.shields.io/badge/Linux-14151a?style=flat-square&logo=linux&logoColor=A78BFA)](#)
 
 **Security Tools**
 [![Burp Suite](https://img.shields.io/badge/Burp%20Suite-14151a?style=flat-square&logo=burpsuite&logoColor=A78BFA)](#)
@@ -71,7 +85,7 @@ Open To:
 [![Metasploit](https://img.shields.io/badge/Metasploit-14151a?style=flat-square&logo=metasploit&logoColor=A78BFA)](#)
 [![Wireshark](https://img.shields.io/badge/Wireshark-14151a?style=flat-square&logo=wireshark&logoColor=A78BFA)](#)
 
-[![Skill Icons](https://skillicons.dev/icons?i=python,bash,js,docker,kubernetes,aws,linux,git&theme=dark)](#)
+[![Skill Icons](https://skillicons.dev/icons?i=python,js,react,nodejs,flask,mongodb,docker,kubernetes,aws,azure,linux,git&theme=dark)](#)
 
 ---
 
@@ -201,20 +215,6 @@ Deployed a live SSH/Telnet honeypot on Microsoft Azure using Cowrie and Fail2ban
 
 ---
 
-## 💻 Coding Profiles
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=A78BFA)](#)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-000000?style=for-the-badge&logo=geeksforgeeks&logoColor=A78BFA)](#)
-[![HackerRank](https://img.shields.io/badge/HackerRank-000000?style=for-the-badge&logo=hackerrank&logoColor=A78BFA)](#)
-[![CodeChef](https://img.shields.io/badge/CodeChef-000000?style=for-the-badge&logo=codechef&logoColor=A78BFA)](#)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=A78BFA)](#)
-
-</div>
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -263,20 +263,22 @@ Deployed a live SSH/Telnet honeypot on Microsoft Azure using Cowrie and Fail2ban
 ```yaml
 Learning:
   - Advanced exploitation techniques for auth flows (OAuth/SAML/OIDC)
-  - Cloud security posture management (AWS/Azure)
-  - Deeper red-team tradecraft aligned to MITRE ATT&CK
+  - Cloud security posture management on AWS & Azure
+  - Modern full-stack development (React, Node.js)
 
 Building:
   - CIS-benchmark-driven container security scanner (Bash)
   - ML-based network intrusion detection pipelines
+  - Small full-stack web apps to sharpen dev fundamentals
 
 Exploring:
   - Bug bounty programs on HackerOne / Bugcrowd
   - Mobile application penetration testing (Android)
+  - Cloud-native security (Docker, Kubernetes, IAM hardening)
 
 Open To:
   - AppSec / VAPT internships & placement opportunities
-  - Red team and offensive security collaborations
+  - Web development & cloud-security-adjacent projects
   - CTF teams and security research exchanges
 ```
 
@@ -302,7 +304,6 @@ Open To:
 [![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer)](#)
 
 </div>
-
 <!-- <div align="center">
 
 ![Header](https://capsule-render.com/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Harsh%20Gupta%20(Cazy)&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Security%20Researcher%20%7C%20Bug%20Bounty%20Hunter%20%7C%20Web%20App%20Vulnerability%20Specialist&descAlignY=58&descSize=18)
