@@ -249,12 +249,24 @@ Deployed a live SSH/Telnet honeypot on Microsoft Azure using Cowrie and Fail2ban
 ---
 
 ## 🐍 Contribution Snake
-
-<div align="center">
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/cazy8/cazy8/output/github-snake-dark.svg">
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/cazy8/cazy8/output/github-snake.svg">
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/cazy8/cazy8/output/github-snake.svg">
+  </picture>
+</p>
+<!-- <div align="center">
 
 [![](https://raw.githubusercontent.com/cazy8/cazy8/output/github-contribution-grid-snake-dark.svg)](#)
 
-</div>
+</div> -->
 
 ---
 
